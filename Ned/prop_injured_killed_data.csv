@@ -1,0 +1,123 @@
+CONTRIBUTING FACTOR VEHICLE 1,Hurt Or Killed,COLLISION_ID
+1,0,9
+1,1,1
+80,0,82
+80,1,19
+Accelerator Defective,0,718
+Accelerator Defective,1,344
+Aggressive Driving/Road Rage,0,6403
+Aggressive Driving/Road Rage,1,2955
+Alcohol Involvement,0,14924
+Alcohol Involvement,1,6878
+Animals Action,0,1285
+Animals Action,1,239
+Backing Unsafely,0,67570
+Backing Unsafely,1,7674
+Brakes Defective,0,4569
+Brakes Defective,1,2203
+Cell Phone (hand-Held),0,338
+Cell Phone (hand-Held),1,170
+Cell Phone (hand-held),0,59
+Cell Phone (hand-held),1,20
+Cell Phone (hands-free),0,208
+Cell Phone (hands-free),1,61
+Driver Inattention/Distraction,0,304995
+Driver Inattention/Distraction,1,98400
+Driver Inexperience,0,24781
+Driver Inexperience,1,6709
+Driverless/Runaway Vehicle,0,1010
+Driverless/Runaway Vehicle,1,207
+Drugs (Illegal),0,286
+Drugs (Illegal),1,133
+Drugs (illegal),0,432
+Drugs (illegal),1,415
+Eating or Drinking,0,82
+Eating or Drinking,1,34
+Failure to Keep Right,0,2501
+Failure to Keep Right,1,752
+Failure to Yield Right-of-Way,0,72682
+Failure to Yield Right-of-Way,1,47007
+Fatigued/Drowsy,0,39020
+Fatigued/Drowsy,1,8334
+Fell Asleep,0,3671
+Fell Asleep,1,1821
+Following Too Closely,0,80292
+Following Too Closely,1,27695
+Glare,0,2368
+Glare,1,1658
+Headlights Defective,0,77
+Headlights Defective,1,53
+Illnes,0,515
+Illnes,1,1089
+Illness,0,1771
+Illness,1,387
+Lane Marking Improper/Inadequate,0,843
+Lane Marking Improper/Inadequate,1,132
+Listening/Using Headphones,0,10
+Listening/Using Headphones,1,14
+Lost Consciousness,0,17663
+Lost Consciousness,1,2725
+Obstruction/Debris,0,3408
+Obstruction/Debris,1,763
+Other Electronic Device,0,1881
+Other Electronic Device,1,450
+Other Lighting Defects,0,116
+Other Lighting Defects,1,69
+Other Vehicular,0,52064
+Other Vehicular,1,10850
+Outside Car Distraction,0,10186
+Outside Car Distraction,1,2492
+Oversized Vehicle,0,11625
+Oversized Vehicle,1,752
+Passenger Distraction,0,4145
+Passenger Distraction,1,3808
+Passing Too Closely,0,46772
+Passing Too Closely,1,3351
+Passing or Lane Usage Improper,0,47547
+Passing or Lane Usage Improper,1,8232
+Pavement Defective,0,1673
+Pavement Defective,1,735
+Pavement Slippery,0,14614
+Pavement Slippery,1,4688
+Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,0,2269
+Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,1,6966
+Physical Disability,0,5730
+Physical Disability,1,3615
+Prescription Medication,0,13251
+Prescription Medication,1,2157
+Reaction to Other Uninvolved Vehicle,0,1160
+Reaction to Other Uninvolved Vehicle,1,177
+Reaction to Uninvolved Vehicle,0,14691
+Reaction to Uninvolved Vehicle,1,4913
+Shoulders Defective/Improper,0,69
+Shoulders Defective/Improper,1,19
+Steering Failure,0,2137
+Steering Failure,1,668
+Texting,0,38
+Texting,1,12
+Tinted Windows,0,97
+Tinted Windows,1,65
+Tire Failure/Inadequate,0,1874
+Tire Failure/Inadequate,1,593
+Tow Hitch Defective,0,191
+Tow Hitch Defective,1,23
+Traffic Control Device Improper/Non-Working,0,542
+Traffic Control Device Improper/Non-Working,1,307
+Traffic Control Disregarded,0,19443
+Traffic Control Disregarded,1,16047
+Turning Improperly,0,42427
+Turning Improperly,1,7710
+Unsafe Lane Changing,0,34078
+Unsafe Lane Changing,1,5795
+Unsafe Speed,0,15930
+Unsafe Speed,1,11309
+Unspecified,0,561808
+Unspecified,1,132970
+Using On Board Navigation Device,0,110
+Using On Board Navigation Device,1,40
+Vehicle Vandalism,0,118
+Vehicle Vandalism,1,14
+View Obstructed/Limited,0,9161
+View Obstructed/Limited,1,4135
+Windshield Inadequate,0,62
+Windshield Inadequate,1,15
