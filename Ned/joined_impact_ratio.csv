@@ -1,0 +1,123 @@
+,CONTRIBUTING FACTOR VEHICLE 1,Hurt Or Killed,COUNT IMPACTED,FACTOR TOTAL,PROP Impacted,,
+0,1,0,9,10,0.9,,
+113,Unspecified,1,132970,694778,0.191384874,,0.342821419
+2,80,0,82,101,0.811881188,,
+23,Driver Inattention/Distraction,1,98400,403395,0.243929647,,0.199045517
+4,Accelerator Defective,0,718,1062,0.676082863,,
+37,Failure to Yield Right-of-Way,1,47007,119689,0.392742859,,0.059057645
+6,Aggressive Driving/Road Rage,0,6403,9358,0.684227399,,
+43,Following Too Closely,1,27695,107987,0.256466056,,0.053283576
+8,Alcohol Involvement,0,14924,21802,0.684524356,,
+13,Backing Unsafely,1,7674,75244,0.101988198,,0.037127334
+10,Animals Action,0,1285,1524,0.843175853,,
+65,Other Vehicular,1,10850,62914,0.172457641,,0.031043393
+12,Backing Unsafely,0,67570,75244,0.898011802,,
+75,Passing or Lane Usage Improper,1,8232,55779,0.147582423,,0.0275228
+14,Brakes Defective,0,4569,6772,0.6746899,,
+107,Turning Improperly,1,7710,50137,0.153778647,,0.024738891
+16,Cell Phone (hand-Held),0,338,508,0.665354331,,
+73,Passing Too Closely,1,3351,50123,0.066855535,,0.024731983
+18,Cell Phone (hand-held),0,59,79,0.746835443,,
+39,Fatigued/Drowsy,1,8334,47354,0.17599358,,0.023365687
+20,Cell Phone (hands-free),0,208,269,0.773234201,,
+109,Unsafe Lane Changing,1,5795,39873,0.145336443,,0.019674369
+22,Driver Inattention/Distraction,0,304995,403395,0.756070353,,
+105,Traffic Control Disregarded,1,16047,35490,0.452155537,,0.017511683
+24,Driver Inexperience,0,24781,31490,0.786948238,,
+25,Driver Inexperience,1,6709,31490,0.213051762,,0.01553798
+26,Driverless/Runaway Vehicle,0,1010,1217,0.829909614,,
+111,Unsafe Speed,1,11309,27239,0.415176769,,0.013440426
+28,Drugs (Illegal),0,286,419,0.682577566,,
+9,Alcohol Involvement,1,6878,21802,0.315475644,,0.01075767
+30,Drugs (illegal),0,432,847,0.510035419,,
+57,Lost Consciousness,1,2725,20388,0.133657053,,0.010059966
+32,Eating or Drinking,0,82,116,0.706896552,,
+89,Reaction to Uninvolved Vehicle,1,4913,19604,0.25061212,,0.00967312
+34,Failure to Keep Right,0,2501,3253,0.768828773,,
+79,Pavement Slippery,1,4688,19302,0.242876386,,0.009524106
+36,Failure to Yield Right-of-Way,0,72682,119689,0.607257141,,
+85,Prescription Medication,1,2157,15408,0.139992212,,0.007602705
+38,Fatigued/Drowsy,0,39020,47354,0.82400642,,
+119,View Obstructed/Limited,1,4135,13296,0.310995788,,0.00656059
+40,Fell Asleep,0,3671,5492,0.668426803,,
+67,Outside Car Distraction,1,2492,12678,0.196560972,,0.006255653
+42,Following Too Closely,0,80292,107987,0.743533944,,
+69,Oversized Vehicle,1,752,12377,0.060757857,,0.006107132
+44,Glare,0,2368,4026,0.58817685,,
+7,Aggressive Driving/Road Rage,1,2955,9358,0.315772601,,0.004617479
+46,Headlights Defective,0,77,130,0.592307692,,
+83,Physical Disability,1,3615,9345,0.386837881,,0.004611064
+48,Illnes,0,515,1604,0.321072319,,
+81,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,1,6966,9235,0.754304277,,0.004556788
+50,Illness,0,1771,2158,0.820667285,,
+71,Passenger Distraction,1,3808,7953,0.478813027,,0.003924216
+52,Lane Marking Improper/Inadequate,0,843,975,0.864615385,,
+15,Brakes Defective,1,2203,6772,0.3253101,,0.00334148
+54,Listening/Using Headphones,0,10,24,0.416666667,,
+41,Fell Asleep,1,1821,5492,0.331573197,,0.002709895
+56,Lost Consciousness,0,17663,20388,0.866342947,,
+59,Obstruction/Debris,1,763,4171,0.182929753,,0.002058079
+58,Obstruction/Debris,0,3408,4171,0.817070247,,
+45,Glare,1,1658,4026,0.41182315,,0.001986532
+60,Other Electronic Device,0,1881,2331,0.806949807,,
+35,Failure to Keep Right,1,752,3253,0.231171227,,0.001605114
+62,Other Lighting Defects,0,116,185,0.627027027,,
+93,Steering Failure,1,668,2805,0.238146168,,0.001384059
+64,Other Vehicular,0,52064,62914,0.827542359,,
+99,Tire Failure/Inadequate,1,593,2467,0.240372923,,0.001217282
+66,Outside Car Distraction,0,10186,12678,0.803439028,,
+77,Pavement Defective,1,735,2408,0.305232558,,0.001188169
+68,Oversized Vehicle,0,11625,12377,0.939242143,,
+61,Other Electronic Device,1,450,2331,0.193050193,,0.001150176
+70,Passenger Distraction,0,4145,7953,0.521186973,,
+51,Illness,1,387,2158,0.179332715,,0.001064813
+72,Passing Too Closely,0,46772,50123,0.933144465,,
+49,Illnes,1,1089,1604,0.678927681,,0.000791455
+74,Passing or Lane Usage Improper,0,47547,55779,0.852417577,,
+11,Animals Action,1,239,1524,0.156824147,,0.000751981
+76,Pavement Defective,0,1673,2408,0.694767442,,
+87,Reaction to Other Uninvolved Vehicle,1,177,1337,0.132385939,,0.00065971
+78,Pavement Slippery,0,14614,19302,0.757123614,,
+27,Driverless/Runaway Vehicle,1,207,1217,0.170090386,,0.000600499
+80,Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,0,2269,9235,0.245695723,,
+5,Accelerator Defective,1,344,1062,0.323917137,,0.000524018
+82,Physical Disability,0,5730,9345,0.613162119,,
+53,Lane Marking Improper/Inadequate,1,132,975,0.135384615,,0.00048109
+84,Prescription Medication,0,13251,15408,0.860007788,,
+103,Traffic Control Device Improper/Non-Working,1,307,849,0.361601885,,0.000418919
+86,Reaction to Other Uninvolved Vehicle,0,1160,1337,0.867614061,,
+31,Drugs (illegal),1,415,847,0.489964581,,0.000417932
+88,Reaction to Uninvolved Vehicle,0,14691,19604,0.74938788,,
+17,Cell Phone (hand-Held),1,170,508,0.334645669,,0.00025066
+90,Shoulders Defective/Improper,0,69,88,0.784090909,,
+29,Drugs (Illegal),1,133,419,0.317422434,,0.000206745
+92,Steering Failure,0,2137,2805,0.761853832,,
+21,Cell Phone (hands-free),1,61,269,0.226765799,,0.000132732
+94,Texting,0,38,50,0.76,,
+101,Tow Hitch Defective,1,23,214,0.107476636,,0.000105593
+96,Tinted Windows,0,97,162,0.598765432,,
+63,Other Lighting Defects,1,69,185,0.372972973,,9.12838E-05
+98,Tire Failure/Inadequate,0,1874,2467,0.759627077,,
+97,Tinted Windows,1,65,162,0.401234568,,7.9935E-05
+100,Tow Hitch Defective,0,191,214,0.892523364,,
+115,Using On Board Navigation Device,1,40,150,0.266666667,,7.40139E-05
+102,Traffic Control Device Improper/Non-Working,0,542,849,0.638398115,,
+117,Vehicle Vandalism,1,14,132,0.106060606,,6.51322E-05
+104,Traffic Control Disregarded,0,19443,35490,0.547844463,,
+47,Headlights Defective,1,53,130,0.407692308,,6.41454E-05
+106,Turning Improperly,0,42427,50137,0.846221353,,
+33,Eating or Drinking,1,34,116,0.293103448,,5.72374E-05
+108,Unsafe Lane Changing,0,34078,39873,0.854663557,,
+3,80,1,19,101,0.188118812,,4.9836E-05
+110,Unsafe Speed,0,15930,27239,0.584823231,,
+91,Shoulders Defective/Improper,1,19,88,0.215909091,,4.34215E-05
+112,Unspecified,0,561808,694778,0.808615126,,
+19,Cell Phone (hand-held),1,20,79,0.253164557,,3.89806E-05
+114,Using On Board Navigation Device,0,110,150,0.733333333,,
+121,Windshield Inadequate,1,15,77,0.194805195,,3.79938E-05
+116,Vehicle Vandalism,0,118,132,0.893939394,,
+95,Texting,1,12,50,0.24,,2.46713E-05
+118,View Obstructed/Limited,0,9161,13296,0.689004212,,
+55,Listening/Using Headphones,1,14,24,0.583333333,,1.18422E-05
+120,Windshield Inadequate,0,62,77,0.805194805,,
+1,1,1,1,10,0.1,,4.93426E-06
