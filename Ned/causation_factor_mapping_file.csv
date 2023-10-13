@@ -1,0 +1,63 @@
+﻿Causation Factor,Category
+Aggressive Driving/Road Rage,Traffic Rules
+Pavement Slippery,Nature
+Following Too Closely,Traffic Rules
+Unspecified,Unknown
+nan,Unknown
+Passing Too Closely,Traffic Rules
+Driver Inexperience,Traffic Rules
+Passing or Lane Usage Improper,Traffic Rules
+Turning Improperly,Traffic Rules
+Unsafe Lane Changing,Traffic Rules
+Unsafe Speed,Traffic Rules
+Reaction to Uninvolved Vehicle,External
+Steering Failure,Malfunction
+Traffic Control Disregarded,Traffic Rules
+Other Vehicular,External
+Driver Inattention/Distraction,Attention
+Oversized Vehicle,Traffic Rules
+Pedestrian/Bicyclist/Other Pedestrian Error/Confusion,External
+Alcohol Involvement,Substance
+View Obstructed/Limited,External
+Failure to Yield Right-of-Way,Traffic Rules
+Illnes,Medical
+Lost Consciousness,Medical
+Brakes Defective,Malfunction
+Backing Unsafely,Traffic Rules
+Glare,Nature
+Passenger Distraction,Attention
+Fell Asleep,Attention
+Obstruction/Debris,Nature
+Tinted Windows,Traffic Rules
+Animals Action,External
+Drugs (illegal),Substance
+Pavement Defective,Nature
+Other Lighting Defects,Nature
+Outside Car Distraction,External
+Driverless/Runaway Vehicle,External
+Tire Failure/Inadequate,Malfunction
+Fatigued/Drowsy,Attention
+Headlights Defective,Malfunction
+Accelerator Defective,Malfunction
+Failure to Keep Right,Traffic Rules
+Physical Disability,Medical
+Eating or Drinking,Attention
+Cell Phone (hands-free),Electronic Device
+Lane Marking Improper/Inadequate,External
+Cell Phone (hand-Held),Electronic Device
+Using On Board Navigation Device,Electronic Device
+Other Electronic Device,Electronic Device
+Traffic Control Device Improper/Non-Working,External
+Tow Hitch Defective,Malfunction
+Windshield Inadequate,Malfunction
+Vehicle Vandalism,External
+Prescription Medication,Medical
+Shoulders Defective/Improper,Malfunction
+Listening/Using Headphones,Electronic Device
+Texting,Electronic Device
+80,Unknown
+Reaction to Other Uninvolved Vehicle,External
+1,Unknown
+Drugs (Illegal),Substance
+Illness,Medical
+Cell Phone (hand-held),Electronic Device
