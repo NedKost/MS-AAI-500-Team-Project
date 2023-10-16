@@ -1,0 +1,40 @@
+﻿Vehicle Type,Category
+sedan,Car
+station wagon/sport utility vehicle,Car
+taxi,Car
+pick-up truck,Truck
+bike,Bike
+box truck,Truck
+bus,Service Vehicle
+tractor truck diesel,Big Rig
+motorcycle,Motorbike
+e-bike,Motorbike
+van,Van
+e-scooter,Motorbike
+ambulance,Service Vehicle
+dump,Service Vehicle
+moped,Motorbike
+convertible,Car
+flat bed,Truck
+pk,Truck
+garbage or refuse,Service Vehicle
+carry all,Trailer
+tractor truck gasoline,Big Rig
+tow truck / wrecker,Service Vehicle
+motorscooter,Service Vehicle
+chassis cab,Big Rig
+motorbike,Motorbike
+4 dr sedan,Car
+tanker,Big Rig
+concrete mixer,Service Vehicle
+limo,Car
+fire truck,Service Vehicle
+refrigerated van,Big Rig
+flat rack,Big Rig
+3-door,Car
+e-sco,Motorbike
+armored truck,Service Vehicle
+e-bik,Motorbike
+truck,Truck
+beverage truck,Truck
+school bus,Service Vehicle
